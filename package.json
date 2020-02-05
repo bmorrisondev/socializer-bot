@@ -1,0 +1,24 @@
+{
+  "name": "socializer-bot",
+  "version": "1.0.0",
+  "description": "Goals;",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmorrisondev/socializer-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmorrisondev/socializer-bot/issues"
+  },
+  "homepage": "https://github.com/bmorrisondev/socializer-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
