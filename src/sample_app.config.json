@@ -8,5 +8,10 @@
     "discord": {
         "botToken": "",
         "channelIdOut": ""
+    },
+    "awsConfig": {
+        "accessKeyId": "",
+        "secretAccessKey": "",
+        "region": ""
     }
 }
